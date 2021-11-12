@@ -1,2 +1,1 @@
-# Web
-All of the code needed for the web site of our hackathon
+# Secret Creatures - sCreatures Cryptocurrency Game
